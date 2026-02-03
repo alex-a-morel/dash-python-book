@@ -31,7 +31,6 @@ book_01_fundamentals/
 ## Scope
 
 - This repository contains **code listings only**.
-- It does **not** provide runnable projects or installation instructions.
 - The code is meant to be read alongside the books.
 
 ---
