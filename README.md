@@ -37,8 +37,11 @@ book_01_fundamentals/
 
 ## Editions
 
-Each published book edition is associated with a **Git tag**.
-Readers are encouraged to refer to the tag corresponding to their book edition.
+Each published book edition corresponds to a specific state of this repository,
+identified by a Git tag.
+
+Readers should refer to the tag matching their book edition to access the exact
+code listings used in that edition.
 
 ---
 
