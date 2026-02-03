@@ -54,6 +54,14 @@ Support requests, questions, or discussions are out of scope.
 The code listings are released under the **MIT License**.  
 The text of the books is **not** included in this repository.
 
+## Editions
+
+Each published book edition corresponds to a specific state of this repository,
+identified by a Git tag.
+
+Readers should refer to the tag matching their book edition to access the exact
+code listings used in that edition.
+
 ---
 
 ## Français
@@ -109,3 +117,11 @@ Les demandes de support, questions ou discussions ne sont pas prises en charge.
 
 Les exemples de code sont publiés sous licence **MIT**.  
 Le texte des livres n’est **pas** inclus dans ce dépôt.
+
+## Éditions
+
+Chaque édition publiée correspond à un état spécifique de ce référentiel,
+identifié par une balise Git.
+
+Les lecteurs doivent se référer à la balise correspondant à leur édition pour accéder aux listes de code exactes
+utilisées dans cette édition.
